@@ -5,6 +5,8 @@ NPCReplacements=(FromClassName="Quetz_Character_BP_C",ToClassName="")
 Thanks to the modders in the modding discord for helping/putting up with me as I worked through some of these concepts.
 Anu Zababa
 Chris
-**Several names that fell out of my brain as it was on original design**
-And finally,
+Impulse
+jslay
 Orionsun
+Woeful Macabre
+**Several names that fell out of my brain as it was during original design**
