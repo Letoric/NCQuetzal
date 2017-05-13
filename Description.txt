@@ -1,0 +1,10 @@
+This mod replaces the vanilla quetzal with one that allows you to level up speed, has base stamina and weight closer to what they were (1200 base), and gives reduced weight on items in it's inventory. 
+In the spirit of keeping this stackable, it is NOT remapping existing Quetzals, so I suggest adding the following line to game.ini to remap them if you want to have only my new quetzals spawning.
+NPCReplacements=(FromClassName="Quetz_Character_BP_C",ToClassName="")
+
+Thanks to the modders in the modding discord for helping/putting up with me as I worked through some of these concepts.
+Anu Zababa
+Chris
+**Several names that fell out of my brain as it was on original design**
+And finally,
+Orionsun
